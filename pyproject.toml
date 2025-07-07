@@ -1,0 +1,18 @@
+[project]
+name = "nikkei-blog-sagemaker"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "datatrove>=0.3.0",
+    "dotenv>=0.9.9",
+    "orjson>=3.10.18",
+    "s3fs>=2025.5.1",
+    "sagemaker>=2.247.1",
+]
+
+[dependency-groups]
+dev = [
+    "ipykernel>=6.29.5",
+]
