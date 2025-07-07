@@ -1,6 +1,6 @@
 # Amazon SageMaker Pipelines ハンズオンリポジトリ
 
-このリポジトリは、ブログ記事**[【インターン体験記】Amazon SageMaker Pipelines入門：基本からDataTroveとの連携まで](https://hack.nikkei.com/blog/intern_sagemaker_pipelines)**
+このリポジトリは、ブログ記事 **[【インターン体験記】Amazon SageMaker Pipelines入門：基本からDataTroveとの連携まで](https://hack.nikkei.com/blog/intern_sagemaker_pipelines)** 
 のハンズオン用サンプルコードです。
 
 記事と合わせて本リポジトリのコードを実行することで、SageMaker Pipelinesの基本的な使い方と、Hugging Face製の大規模データ処理ライブラリDataTroveを組み合わせた、より実践的なデータ処理パイプラインの構築方法を学べます。SageMaker Studio環境とローカルPC環境の両方で動作するコード構成になっており、AWSリソースを使わずにローカルのDocker環境でパイプラインを実行する方法も含まれています。
